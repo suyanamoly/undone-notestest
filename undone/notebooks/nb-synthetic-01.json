@@ -1,0 +1,14 @@
+{
+  "id": "nb-synthetic-01",
+  "title": "Systems Architecture",
+  "description": "Local-first sync validation notebook",
+  "color": "#4f46e5",
+  "icon": "cpu",
+  "favorite": true,
+  "shared": false,
+  "archived": false,
+  "collapsed": false,
+  "order": 0,
+  "createdAt": "2026-10-27T08:00:00.000Z",
+  "updatedAt": "2026-10-27T08:00:00.000Z"
+}

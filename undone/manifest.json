@@ -1,0 +1,29 @@
+{
+  "manifestVersion": 1,
+  "workspaceId": "user-live-test",
+  "notebooks": [
+    {
+      "id": "nb-synthetic-01",
+      "path": "undone/notebooks/nb-synthetic-01.json",
+      "hash": "304cbcb7d73254150b4bd31b590173bc403d6f054c7f64f94e22ff48c71a6fe9"
+    }
+  ],
+  "notes": [
+    {
+      "id": "note-canvas-01",
+      "path": "undone/notes/note-canvas-01.json",
+      "hash": "086cb77c717a66e3f950ab5d193ece02e680c05ca256ded8e61eea62b0dd0ff3",
+      "contentType": "canvas"
+    }
+  ],
+  "canvases": [],
+  "assets": [
+    {
+      "id": "asset-img-01",
+      "path": "undone/assets/6b7fa434f92a8b80aab02d9bf1a12e49ffcae424e4013a1c4f68b67e3d2bbcd0.png",
+      "sha256": "6b7fa434f92a8b80aab02d9bf1a12e49ffcae424e4013a1c4f68b67e3d2bbcd0",
+      "gitSha": "08cd6f2bfd1b53ec5a4db72bed55f40907e8bdfa",
+      "mimeType": "image/png"
+    }
+  ]
+}

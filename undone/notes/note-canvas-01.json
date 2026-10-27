@@ -1,0 +1,56 @@
+{
+  "id": "note-canvas-01",
+  "notebookId": "nb-synthetic-01",
+  "title": "Network Topology Diagram",
+  "ownerId": "user-val-01",
+  "permission": "owner",
+  "tags": [
+    "architecture",
+    "sync"
+  ],
+  "favorite": false,
+  "shared": false,
+  "archived": false,
+  "order": 0,
+  "createdAt": "2026-10-27T08:05:00.000Z",
+  "updatedAt": "2026-10-27T08:05:00.000Z",
+  "contentType": "canvas",
+  "scene": {
+    "schemaVersion": 1,
+    "elements": [
+      {
+        "id": "elem-rect-1",
+        "type": "rectangle",
+        "x": 100,
+        "y": 100,
+        "width": 200,
+        "height": 120
+      },
+      {
+        "id": "elem-text-1",
+        "type": "text",
+        "x": 120,
+        "y": 140,
+        "width": 160,
+        "height": 30,
+        "text": "Local IndexedDB"
+      },
+      {
+        "id": "elem-img-1",
+        "type": "image",
+        "x": 350,
+        "y": 100,
+        "width": 64,
+        "height": 64,
+        "fileId": "asset-img-01"
+      }
+    ],
+    "appState": {
+      "viewBackgroundColor": "#ffffff",
+      "theme": "light"
+    },
+    "assetHashes": {
+      "asset-img-01": "6b7fa434f92a8b80aab02d9bf1a12e49ffcae424e4013a1c4f68b67e3d2bbcd0"
+    }
+  }
+}
